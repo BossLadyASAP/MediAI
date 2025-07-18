@@ -1,4 +1,3 @@
-# ChatGPT Platform Clone
 
 A full-stack, modern ChatGPT-like platform with mocked AI responses, built with React (TypeScript), Tailwind CSS, Node.js/Express, MongoDB, and JWT authentication.
 
