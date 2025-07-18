@@ -1,0 +1,31 @@
+# Node
+node_modules/
+.env
+
+# Build
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MongoDB
+db/
+
+# Docker
+*.local
+
+# React
+client/.env
+client/node_modules/
+client/build/
+
+# Express
+server/.env
+server/node_modules/
+server/build/
